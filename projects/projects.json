@@ -4,12 +4,29 @@
     {
       "name": "VEVO",
       "thumb": "vevo/thumb.png",
-      "desc": "VEVO is the world’s leading all-premium music video and entertainment platform with over 5 billion monthly views globally.", // One or two sentences
+      "desc": "VEVO is the world’s leading all-premium music video and entertainment platform with over 5 billion monthly views globally.",
       "url": "http://vevo.com",
       "submitter": "michaelfillier",
       "submissionDate": "2014-01-08",
       "tags": [
         "Production", "Entertainment"
+      ]
+    },
+    {
+      "name": "Redbeacon Experts",
+      "thumb": "redbeacon-experts/thumb.png",
+      "desc": "A Q&A site for home improvement questions. Get free home advice from Redbeacon experts within 24 hours.",
+      "url": "https://www.redbeacon.com/experts",
+      "submitter": "clark-duvall",
+      "submissionDate": "2013-12-16",
+      "tags": [
+        "Production",
+        "Responsive",
+        "Bootstrap",
+        "SASS",
+        "jQuery",
+        "Home Improvement",
+        "Django"
       ]
     },
     {
@@ -1619,6 +1636,123 @@
         "free music",
         "online radio",
         "internet radio"
+      ]
+    },
+    {
+      "name": "Sendmachine",
+      "thumb": "sendmachine/thumb.png",
+      "desc": "Sendmachine is an email marketing tool that enables clients to send high-volume email campaigns and transactional emails. The admin interface is built with AngularJS.",
+      "url": "http://www.sendmachine.com/",
+      "submitter": "wooptoo",
+      "submissionDate": "2013-04-17",
+      "tags": [
+        "Production",
+        "Productivity",
+        "CRUD",
+        "Local Storage",
+        "Localization",
+        "Highcharts",
+        "Bootstrap",
+        "jQuery"
+      ]
+    },
+    {
+      "name": "OpenDataSoft Explore",
+      "thumb": "opendatasoft/thumb.png",
+      "desc": "Explore a catalog of Open Data datasets and visualize them interactively in context.",
+      "url": "http://datastore.opendatasoft.com/public/explore/",
+      "info": "http://www.opendatasoft.com",
+      "submitter": "richterb",
+      "submissionDate": "2013-04-23",
+      "tags": [
+        "Production",
+        "Datavisualization", "Open Data",
+        "CSS3",
+        "jQuery"
+      ]
+    },
+    {
+      "name": "Node Tetrinet",  
+      "thumb": "nodetetrinet/thumb.png", 
+      "desc": "A multiplayer tetrinet game with angularjs, node.js and socket.io", 
+      "url": "http://net.lo2k.net", 
+      "info": "http://weblog.lo2k.net/2013/04/node-tetrinet-released/", 
+      "src": "https://github.com/xblaster/NodeTetrinet", 
+      "submitter": "X-Blaster",
+      "submissionDate": "2013-04-24",
+      "tags": [
+      "Demo", 
+      "Game", 
+      "CSS3D", "WebSocket", 
+      "jQuery",
+      "Open Source"
+      ]
+    },
+    {
+      "name": "VerticalChange",
+      "thumb": "verticalchange/thumb.png",
+      "desc": "Modern Case Management Software (SurveyMonkey meets Highrise for Case Managers)",
+      "url": "https://verticalchange.com",
+      "info": "https://verticalchange.com",
+      "submitter": "dylanz",
+      "submissionDate": "2013-04-25",
+      "tags": [
+        "Production",
+        "Productivity",
+        "Surveys",
+        "Assessments",
+        "CRM",
+        "jQuery"
+      ]
+    },
+    {
+      "name": "NewlyWish",
+      "thumb": "newlywish/thumb.png",
+      "desc": "NewlyWish is a simple and managed registry experience for the modern couple.",
+      "url": "https://www.newlywish.com",
+      "info": "http://www.newlywish.com/about",
+      "submitter": "ienders",
+      "submissionDate": "2014-02-04",
+      "tags": [
+        "Production",
+        "Ecommerce",
+        "Bootstrap",
+        "Rails",
+        "jQuery"
+      ]
+    },
+    {
+      "name": "Smoothie",
+      "thumb": "smoothie/thumb.png",
+      "desc": "Play music as your mood goes",
+      "url": "http://sonnylab.com/smoothie/public",
+      "src": "http://sonnylab.com/smoothie/public",
+      "submitter": "sonnylazuardi",
+      "submissionDate": "2014-02-09",
+      "tags": [
+        "Player",
+        "Sound",
+        "Mood",
+        "Music",
+        "Stereomood",
+        "HTML5",
+        "CSS3",
+        "Bootstrap"
+      ]
+    },
+    {
+      "name": "WorkHourGlass",
+      "thumb": "workhourglass/thumb.png",
+      "desc": "A productivity tool to see how many work hours are left for you to be productive today, this week, month and year.",
+      "url": "http://www.workhourglass.com/",
+      "submitter": "Toodledo",
+      "submissionDate": "2014-02-12",
+      "tags": [
+        "Production",
+        "Productivity",
+        "Bootstrap", "Local Storage",
+        "jQuery",
+        "Time Management","Planning"
       ]
     }
   ]
